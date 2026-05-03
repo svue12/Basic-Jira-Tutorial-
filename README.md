@@ -46,5 +46,15 @@
 <p>Make a name and key name for your Space then click "Create Project."</p>
 <img width="386" height="578" alt="Screenshot 2026-05-02 135336" src="https://github.com/user-attachments/assets/cf0d0bd2-e166-4f31-98c2-a747564be469" />
 
+<p>These are request that the manager, workers, or customers can use to create Tickets.</p>
+<img width="621" height="526" alt="Screenshot 2026-05-02 135832" src="https://github.com/user-attachments/assets/1ba9542a-9e7f-446b-b6bc-739b4956cbf8" />
+
+<p>Going to IT section. Click on "Select" button "Fix an account problem"</p>
+<img width="659" height="599" alt="Screenshot 2026-05-02 135902" src="https://github.com/user-attachments/assets/16e33b82-025d-45dd-b871-367a0c285ec6" />
+
+<p>Go to Customer Service and select "Return and exchanges" and "Suggest new feature". Add them to the Request Types</p>
+<img width="1050" height="520" alt="Screenshot 2026-05-02 140450" src="https://github.com/user-attachments/assets/d9a5b82d-b8c0-47b1-b5d2-aa3b5664a4fb" />
+
+
 
 
