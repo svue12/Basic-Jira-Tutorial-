@@ -28,3 +28,13 @@
 
 <p>Select and click on Scrum</p>
 <img width="672" height="349" alt="Screenshot 2026-05-01 144945" src="https://github.com/user-attachments/assets/7878cf6c-3cf8-42b8-b9f7-a90ccfabd9e8" />
+
+<p>Click on the Project Name you created. Mine is Dune. Board is a good place to find your Tickets. Calendar and Timeline are use to keep track of business tasks and meetings.</p>
+<img width="1095" height="493" alt="Screenshot 2026-05-03 135701" src="https://github.com/user-attachments/assets/b8c70231-3c06-4036-9955-91a7ec40de49" />
+
+<h2>Creating a New Space</h2>
+
+<p>Locate the Space on the taskbar at the left side of the screen. Click on the +(Plus Sign) next to Space</p>
+<img width="178" height="226" alt="Screenshot 2026-05-02 134357" src="https://github.com/user-attachments/assets/9892fae5-593f-4b38-bfcb-b37fd9e26cae" />
+
+
