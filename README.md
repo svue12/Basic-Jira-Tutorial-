@@ -43,5 +43,8 @@
 <p>Click on Use Template</p>
 <img width="712" height="598" alt="Screenshot 2026-05-02 134726" src="https://github.com/user-attachments/assets/e356a534-d915-4b19-b15f-21acc8ed6781" />
 
+<p>Make a name and key name for your Space then click "Create Project."</p>
+<img width="386" height="578" alt="Screenshot 2026-05-02 135336" src="https://github.com/user-attachments/assets/cf0d0bd2-e166-4f31-98c2-a747564be469" />
+
 
 
